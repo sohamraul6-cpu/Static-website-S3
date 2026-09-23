@@ -11,7 +11,7 @@
 
 S3 website URL : http://static-website-hosting-week-1.s3-website.ap-south-1.amazonaws.com
 Output : Moto care website is live.
-
+Drive video link : https://drive.google.com/file/d/1OjKeNYsQiK1FQ06PPvWQDHrdYKz1dgBT/view?usp=sharing
 ----------------------------------------------------------------------------------
 Key Takeaways : Learned about creating user acoount and Amazon S3 service.
                  Understood about bucket policies and website hosting.
